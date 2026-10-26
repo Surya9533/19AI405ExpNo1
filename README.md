@@ -86,7 +86,8 @@ if __name__ == "__main__":
     main()
 ```
 ## output
-<img width="751" height="757" alt="Screenshot 2026-04-28 111950" src="https://github.com/user-attachments/assets/aa7d173d-47a2-4353-8a72-cad84757b5c3" />
+<img width="721" height="507" alt="image" src="https://github.com/user-attachments/assets/68fe5c44-0a2c-476f-a3ac-68356ddb02d1" />
+
 
 ## Result 
   Thus the developing AI Agent with PEAS Description was implemented using Python Programming Successfully.
